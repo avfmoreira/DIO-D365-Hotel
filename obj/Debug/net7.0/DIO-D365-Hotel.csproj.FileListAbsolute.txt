@@ -1,0 +1,15 @@
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\DIO-D365-Hotel.csproj.AssemblyReference.cache
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\DIO-D365-Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\DIO-D365-Hotel.AssemblyInfoInputs.cache
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\DIO-D365-Hotel.AssemblyInfo.cs
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\DIO-D365-Hotel.csproj.CoreCompileInputs.cache
+C:\dev\DIO-D365-Hotel\bin\Debug\net7.0\DIO-D365-Hotel.exe
+C:\dev\DIO-D365-Hotel\bin\Debug\net7.0\DIO-D365-Hotel.deps.json
+C:\dev\DIO-D365-Hotel\bin\Debug\net7.0\DIO-D365-Hotel.runtimeconfig.json
+C:\dev\DIO-D365-Hotel\bin\Debug\net7.0\DIO-D365-Hotel.dll
+C:\dev\DIO-D365-Hotel\bin\Debug\net7.0\DIO-D365-Hotel.pdb
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\DIO-D365-Hotel.dll
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\refint\DIO-D365-Hotel.dll
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\DIO-D365-Hotel.pdb
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\DIO-D365-Hotel.genruntimeconfig.cache
+C:\dev\DIO-D365-Hotel\obj\Debug\net7.0\ref\DIO-D365-Hotel.dll
